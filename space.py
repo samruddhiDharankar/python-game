@@ -38,7 +38,8 @@ enemy.penup()
 enemy.speed(0)
 enemy.setposition(-200,250)
 
-enemyspeed = 2                                      #setting the pixel
+#setting the pixel
+enemyspeed = 2                                     
 
 #create the player's bullet
 
